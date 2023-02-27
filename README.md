@@ -1,0 +1,3 @@
+# mediatr-playground
+
+Study project.
